@@ -1,0 +1,39 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+
+# Build files
+*.VC.db
+*.VC.opendb
+*.sln
+*.xcodeproj
+*.xcworkspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Compiled assets
+*.obj
+*.o
+
+# Ignore Visual Studio files
+*.user
+*.userosscache
+*.suo
+
+# Ignore Rider
+.idea/
+
+# Ignore packaged builds
+Build/
